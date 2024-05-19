@@ -3,6 +3,4 @@
 
 class Database:
 
-    books = []
-
-    users = []
+    Books = []
